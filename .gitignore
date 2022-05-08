@@ -4,6 +4,6 @@ venv/
 .DS_Store
 
 fun/
-stability/
+stability-old/
 fourier/
 other/
